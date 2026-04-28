@@ -74,8 +74,9 @@ Ensure that the following are installed:
 - Git (optional)
 -Install dependencies 
 pip install pandas numpy matplotlib
+-import sqlite3
 - Add Dataset Files
----Create a folder named data/ and place the dataset files inside: taxi.csv, retail.csv, lineitem.csv
+--Create a folder named data/ and place the dataset files inside: taxi.csv, retail.csv, lineitem.csv
 - ensure the dataset paths in config.py match the file names
 -Run the project from main.py
 -view results 
